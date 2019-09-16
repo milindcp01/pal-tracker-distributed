@@ -2,7 +2,7 @@ applications:
 - name: tracker-backlog
   path: ./applications/backlog-server/build/libs/backlog-server.jar
   routes:
-  - route: backlog-pal-milind.cfapps.io
+  - route: backlog-pal-milind1.cfapps.io
   memory: 475M
   disk_quota: 475M
   instances: 1

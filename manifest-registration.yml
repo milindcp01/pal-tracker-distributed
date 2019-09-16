@@ -2,7 +2,7 @@ applications:
 - name: tracker-registration
   path: ./applications/registration-server/build/libs/registration-server.jar
   routes:
-  - route: registration-pal-milind.cfapps.io
+  - route: registration-pal-milind1.cfapps.io
   memory: 475M
   disk_quota: 475M
   instances: 1
